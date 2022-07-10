@@ -1,8 +1,11 @@
-이모티콘 복붙링크
+이모티콘 복붙
 https://kr.piliapp.com/facebook-symbols/
 
-웹사이트 모양 코딩되있는거 링크
+웹사이트 모양 코딩되있는거
 https://getbootstrap.com/docs/5.0/components/card/
 
 코딩 라이브러리
 https://www.w3schools.com/jquery/jquery_get_started.asp
+
+내 코드와 다른지 확인
+https://www.diffchecker.com/
