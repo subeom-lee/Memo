@@ -1,0 +1,9 @@
+숙제1 frontend 팬명록 만들기
+
+숙제2 frontend 팬명록+ajax를 이용해 날씨정보 추가하기
+
+숙제3 pythonprac 지니뮤직 크롤링하기
+
+숙제4 projects_homework 팬명록+ajax날씨+GET/POST방식사용+flask+DB에연결
+
+숙제5 projects_homework 팬명록+ajax날씨+GET/POST방식사용+flask+DB에연결+aws서버에올리기+ OG태그 달기

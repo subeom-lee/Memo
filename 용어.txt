@@ -1,0 +1,31 @@
+JQuery : HTML의 요소들을 조작하는, 편리한 Javascript 라이브러리
+
+Ajax : 비동기적 정보 교환 -> 날씨정보 가져오기
+
+API : 응용 프로그램 프로그래밍 인터페이스
+
+crawling : 웹 페이지를를그대로가져와서 데이터를 수집해오는것 -> 지니차트 보기
+
+pymongo 패키지 : db cloud 연결 패키지
+
+dnspython 패키지 : 
+
+flask 패키지 : Server
+
+bs4 : 
+
+aws : 아마존 웹 서비스
+
+ec2 : 아마존 웹 서비스
+
+POST방식 : 클라(ajax)(index)web->서버(flask)(app.py)pycharm : ex)name address 를 주고 서버에서 웹에 주문완료! 뜨게하기
+
+웹에서 서버에 정보를 주고 서버에서 웹에게 주문완료 뜨게하기
+
+GET방식 : 서버에서 클라이언트로는 전체 보내주기
+
+git : 업데이트 (버전관리시스템)
+
+git hub : 업데이트 사이트 (git 저장소)
+
+sourcetree : git 도구

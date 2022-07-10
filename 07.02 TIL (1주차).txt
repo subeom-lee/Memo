@@ -1,0 +1,63 @@
+#HTML #CSS #JAVASCRIT
+
+
+HTML / CSS / JAVASCRIPT
+HTML은 뼈대 / CSS는 꾸미기 / JAVASCRIPT는 작동
+
+
+#HTML
+<div>구역 (한묶음)
+<p>문단 (한줄)
+<h1>구글 검색엔진에 걸려오는것
+<span>특정 글자만 꾸미기
+<a>하이퍼링크 URL
+<img>이미지 URL
+<input> 입력하는 칸
+<textarea>텍스트 넣을수있는 박스
+
+
+#CSS
+class : 이름지어주기
+background : 배경색
+color : 글씨색
+width(가로) / height(세로)
+max-width -> 모바일화 최대크기
+background-image -> URL
+background-position -> center
+background-size -> cover
+border : 테두리 -> 1px solid white
+border-radius : 귀퉁이 부드럽기 -> px
+margin : 바깥여백 -> auto / px
+padding : 안쪽여백 -> px
+
+div로묶여있는 안에 내용물 가운데로 모으기
+
+display : flex
+flex-direction : row 가로 / column 세로
+justify-content : center
+align-items : center
+
+hover : 마우스를 올렸을때 반응하는것
+*은 모든 태그에 먹이기
+부트스트랩 : 예쁜 CSS를 모아둔곳
+폰트는 타이틀 밑에 넣기
+* {
+}
+
+#JAVASCRIPT
+
+변수 : 값을 담는것
+자료형 : 숫자인지 문자인지
+조건문 : if ~~ else 그게아니면 저렇게된다
+반복문 : 계속 반복하자
+
+let a_list -> 리스트 만들기
+a_list['num'] -> 리스트 보기 (리스트는 0번부터시작)
+a_list.push('a') -> 리스트 추가하기
+a_list -> 리스트보기
+let a_dict={'name':'bob','age':27} -> 값 설정
+a_dict['height'] -> 설정값추가
+
+console.log : 콘솔창에 띄우기
+
+if문은 == 는 두개

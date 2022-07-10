@@ -1,0 +1,13 @@
+commit : 변경내용 저장
+
+repository : 내 git 프로젝트 사이트에 업로드
+
+tracking : 내 repo를 사이트 repo에 연동하는것
+
+clone : 원격 repo를 내pc에 가져오는것 (초기에사용)
+
+push : 내 commit내용을 사이트에 commit
+
+pull : 사이트에 commit내용을 내pc에 commit
+
+pull -> commit -> push (사이트에 있는 내용을 가지고와서 내 pc에서 commit하고 다시 사이트에 올린다

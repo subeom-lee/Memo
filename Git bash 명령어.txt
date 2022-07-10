@@ -1,0 +1,5 @@
+켜기
+nohup python app.py &
+
+끄기
+ps -ef | grep 'python app.py' | awk '{print $2}' | xargs kill

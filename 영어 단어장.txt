@@ -1,0 +1,11 @@
+width : 폭,너비 (가로)
+height : 높이 (세로)
+radius : 반지름,반경
+margin : 여백
+padding : 푹신하게 만들거나 형체를 잡기 위해 안에 대는
+display : 진열
+direction : 방향
+align : 나란히하다
+hover : 맴돌다
+sum : 합
+log : 기록하다
